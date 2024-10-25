@@ -1,0 +1,16 @@
+accelerate
+huggingface-hub
+bitsandbytes
+einops==0.3.0
+matplotlib==3.7.3
+numpy==1.24.2
+opencv_contrib_python==4.8.1.78
+opencv_python==4.8.0.76
+opencv_python_headless==4.7.0.72
+packaging==24.1
+Pillow
+torch==1.13.1
+torchvision==0.14.1
+tqdm==4.65.0
+transformers
+diffusers

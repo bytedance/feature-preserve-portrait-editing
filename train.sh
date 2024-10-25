@@ -1,0 +1,1 @@
+python   train.py   --instance_data_dir  ./data/outfit/train  --pretrained_model_name_or_path  stablediffusionapi/realistic-vision-v40     --combine_type concat  --dropout_rate 0.2  --reconst_prob 0.05
